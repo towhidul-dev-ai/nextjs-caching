@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 49.99,
+      "category": "Electronics",
+      "description": "Comfortable wireless headphones with clear sound, deep bass, and a long-lasting battery. Perfect for music, movies, and online meetings.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 79.99,
+      "category": "Electronics",
+      "description": "A modern smart watch with fitness tracking, heart rate monitoring, notifications, and a stylish design for everyday use.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "stock": 18,
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 59.99,
+      "category": "Fashion",
+      "description": "Lightweight and comfortable running shoes designed for daily workouts, jogging, walking, and other outdoor activities.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "stock": 32,
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Leather Backpack",
+      "price": 45.00,
+      "category": "Accessories",
+      "description": "A stylish and durable leather backpack with enough space for a laptop, books, accessories, and everyday essentials.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "stock": 14,
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "name": "Coffee Mug",
+      "price": 12.50,
+      "category": "Home",
+      "description": "A simple ceramic coffee mug with a comfortable handle. Ideal for coffee, tea, hot chocolate, and everyday use.",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d",
+      "stock": 50,
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Mechanical Keyboard",
+      "price": 89.99,
+      "category": "Electronics",
+      "description": "A responsive mechanical keyboard with comfortable keys and RGB lighting, suitable for programming, gaming, and everyday work.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "stock": 12,
+      "rating": 4.8
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Silent Ocean",
+      "author": "Daniel Carter",
+      "price": 18.99,
+      "category": "Fiction",
+      "description": "A mysterious adventure about a young researcher who discovers a hidden secret beneath the ocean.",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "stock": 20,
+      "rating": 4.6
+    },
+    {
+      "id": 2,
+      "title": "Learning JavaScript",
+      "author": "Michael Brown",
+      "price": 29.99,
+      "category": "Programming",
+      "description": "A beginner-friendly guide to JavaScript covering variables, functions, arrays, objects, and modern web development.",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "stock": 15,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "title": "The Art of Focus",
+      "author": "James Wilson",
+      "price": 16.50,
+      "category": "Self Development",
+      "description": "A practical book about improving concentration, managing distractions, and building productive daily habits.",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "stock": 30,
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Journey Beyond the Stars",
+      "author": "Emma Davis",
+      "price": 22.99,
+      "category": "Science Fiction",
+      "description": "An exciting science-fiction story following a group of explorers traveling beyond the boundaries of known space.",
+      "image": "https://images.unsplash.com/photo-1511108690759-009324a90311",
+      "stock": 12,
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "title": "Modern Web Development",
+      "author": "Robert Miller",
+      "price": 34.99,
+      "category": "Programming",
+      "description": "Learn the fundamentals of modern web development with HTML, CSS, JavaScript, React, and Next.js.",
+      "image": "https://images.unsplash.com/photo-1535398089889-dd807df1dfaa",
+      "stock": 10,
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "title": "The Power of Habits",
+      "author": "Sarah Anderson",
+      "price": 19.99,
+      "category": "Personal Development",
+      "description": "Explore how small daily habits can shape your behavior, productivity, and long-term personal growth.",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "stock": 25,
+      "rating": 4.4
+    }
+  ]
+}
